@@ -1,0 +1,90 @@
+---
+title: "Debs"
+author: "mbh038"
+date: "Wednesday, June 24, 2015"
+output: html_document
+---
+
+```{r load packages}
+setwd("C:/Users/Mike/Rspace/Debs")
+library(ggplot2)
+library(tidyr)
+library(dplyr)
+```
+##Training Budget
+```{r training budget}
+tb<-data.frame("Category"=c("Pay costs","Devolved to depts. for CPD","Central Funding"),"Allocation"=c(27,33,39))
+```
+Plot the data
+```{r plot the data}
+png("budgetallocation.png",width = 680, height = 480)
+d<-ggplot(data=tb,
+        aes(x=Category, y=Allocation,fill=Allocation, order=-Allocation))+
+        geom_bar(stat="identity")+
+        #facet_wrap(~variable)+
+        coord_flip()+
+        scale_y_continuous(breaks = seq(0, 50, 10))+
+        theme(axis.text.x = element_text(size=16),
+        axis.text.y=element_text(size=14))+
+        labs(y = "% Allocation of total training budget")+
+        theme(axis.title.x = element_text(size=16,vjust=-.5),
+        axis.title.y=element_blank())+
+       # theme(legend.text=element_text(size=12),
+               # legend.title = element_blank())+
+        theme(legend.position="none")
+d
+dev.off() 
+```
+
+
+##LEARNING AND TEACHING 
+
+KPI        Current Position  %	Headcount 
+Post grad qualification	57	85
+Teaching qualification or equiv ( HEA Fellow) 	27	40
+HEA membership	18	27
+Falmouth University May 2015 % of academic staff. 
+
+```{r kpi table}
+kpi<-data.frame("Qualification"=c("Post grad qual.","Teaching qual.or equiv (HEA Fellow)","HEA membership"),
+                "CurrentPosition"=c(57,27,18),
+                "Headcount"=c(85,40,27))
+kpitidy<-gather(kpi,CurrentPosition,Headcount,-Qualification)
+```
+Plot the data
+```{r plot kpi data}
+
+count_names <- list(
+  'count#1'="Current Position %",
+  'count#2'="Head Count"
+  )
+
+count_labeller <- function(variable,value){
+  return(count_names[value])
+}
+
+png("headcount.png",width = 680, height = 480)
+d<-ggplot(data=kpitidy,
+        aes(x=Qualification, y=Headcount,fill=CurrentPosition))+
+        geom_bar(stat="identity")+
+        facet_grid(CurrentPosition~.,labeller=count_labeller)+
+        #coord_flip()+
+        scale_y_continuous(breaks = seq(0, 100, 10))+
+        theme(axis.text.x = element_text(size=16),
+        axis.text.y=element_text(size=14))+
+        labs(title = "Falmouth University May 2015 % of academic staff")+
+        theme(title=element_text(size=16,vjust=1.5))+
+        theme(axis.title.x = element_text(size=16,vjust=-.5),
+        axis.title.y=element_blank())+
+       # theme(legend.text=element_text(size=12),
+               # legend.title = element_blank())+
+        theme(legend.position="none")+
+         theme(strip.text.y = element_text(size=12, face="bold"))
+d
+dev.off() 
+```
+WORKFORCE PROFILE
+
+Falmouth University has a headcount of  647  academic 279 and professional services 222 . AL headcount is 124 representing a 19% of the total workforce
+
+EXPRESS AS A %
