@@ -83,8 +83,13 @@ d<-ggplot(data=kpitidy,
 d
 dev.off() 
 ```
-WORKFORCE PROFILE
+##WORKFORCE PROFILE
 
 Falmouth University has a headcount of  647  academic 279 and professional services 222 . AL headcount is 124 representing a 19% of the total workforce
 
-EXPRESS AS A %
+```{r workforce profile}
+workforce<-data.frame("Category"=c("Academic","Prof. Services","AL"),"Number"=c(279,222,124))
+g<-ggplot(data=workforce,aes(x=,y=Number))+geom_bar()
+g
+```
+
