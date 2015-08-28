@@ -45,7 +45,10 @@ arrange(pay,mfAcademicPayRatio)
 
 pay$deviance<-abs(1-pay$mfAcademicPayRatio)
 
-arrange(pay,deviance)
+deviance<-data.frame(arrange(pay,deviance))
+deviance
+write.table(deviance,"deviance.csv",sep=",",row.names=TRUE)
+
 
 ggplot(pay,aes(x=deviance,fill=..x..),alpha=0.2)+
         #geom_histogram(binwidth=0.02)+
