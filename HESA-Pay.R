@@ -1,3 +1,8 @@
+library(RColorBrewer)
+library(dplyr)
+library(ggplot2)
+library(grid)
+
 ## Data from
 
 ## https://docs.google.com/spreadsheets/d/1z4ffKuH6AW0iWIhTMA1RrAjaBziS2LEKzUeUD7FMVx0/edit#gid=2002317430
@@ -17,7 +22,7 @@ Falmouth.mf.ratio<-subset(pay,University=="Falmouth University")$mfAcademicPayRa
 
 falmouth<-subset(pay,pay$University=="Falmouth University")
 
-library(dplyr)
+
 arrange(pay,mfAcademicPayRatio)
 
 pay$dev<-abs(1-pay$mfAcademicPayRatio)
@@ -28,11 +33,11 @@ write.table(deviance,"deviance.csv",sep=",",row.names=TRUE)
 
 ## Plot distribution of pay ratios
 
-library(ggplot2)
-library(grid)
 
-#png("mfPayRatio.png",width = 600, height = 480)
+
+png("mfPayRatio.png",width = 600, height = 480)
 g<-ggplot(pay,aes(x=mfAcademicPayRatio,fill=Type))+geom_bar(binwidth=0.02,alpha=0.8)+
+        scale_fill_brewer(palette="Set1")+
         #coord_flip()+
         #scale_x_reverse()+
         #scale_fill_gradient("Ratio", low = "green", high = "red")+
@@ -49,7 +54,7 @@ g<-ggplot(pay,aes(x=mfAcademicPayRatio,fill=Type))+geom_bar(binwidth=0.02,alpha=
         theme(legend.text=element_text(size=14),
               legend.title=element_text(size=14));
 g;
-#dev.off()
+dev.off()
 
 
 ggplot(pay,aes(x=deviance,fill=..x..),alpha=0.2)+

@@ -1,163 +1,163 @@
 id,University,mfAcademicPayRatio,Type
-47,Anglia Ruskin University,1.02,
-108,Aston University,1.06,
+47,Anglia Ruskin University,1.02,Non-Arts
+108,Aston University,1.06,Non-Arts
 48,Bath Spa University,1.04,Arts
-109,The University of Bath,1.14,
-26,University of Bedfordshire,1.11,
-127,Birkbeck College,1.08,
+109,The University of Bath,1.14,Non-Arts
+26,University of Bedfordshire,1.11,Non-Arts
+127,Birkbeck College,1.08,Non-Arts
 52,Birmingham City University,1.06,Arts
-110,The University of Birmingham,1.17,
-200,University College Birmingham*,1.06,
-7,Bishop Grosseteste University,1.09,
-49,The University of Bolton,1.07,
+110,The University of Birmingham,1.17,Non-Arts
+200,University College Birmingham*,1.06,Non-Arts
+7,Bishop Grosseteste University,1.09,Non-Arts
+49,The University of Bolton,1.07,Non-Arts
 197,The Arts University Bournemouth,1.03,Arts
-50,Bournemouth University,1.11,
-111,The University of Bradford,1.09,
-51,The University of Brighton,1.08,
-112,The University of Bristol,1.15,
-113,Brunel University London,1.07,
-9,Buckinghamshire New University,0.93,
-203,The University of Buckingham,1.22,
-114,The University of Cambridge,1.21,
-188,The Institute of Cancer Research,1.23,
-12,Canterbury Christ Church University,1.04,
-53,The University of Central Lancashire,1.01,
-10,Central School of Speech and Drama,1.1,
-11,University of Chester,1.06,
-82,The University of Chichester,1.05,
-115,The City University,1.22,
+50,Bournemouth University,1.11,Non-Arts
+111,The University of Bradford,1.09,Non-Arts
+51,The University of Brighton,1.08,Non-Arts
+112,The University of Bristol,1.15,Non-Arts
+113,Brunel University London,1.07,Non-Arts
+9,Buckinghamshire New University,0.93,Non-Arts
+203,The University of Buckingham,1.22,Non-Arts
+114,The University of Cambridge,1.21,Non-Arts
+188,The Institute of Cancer Research,1.23,Non-Arts
+12,Canterbury Christ Church University,1.04,Non-Arts
+53,The University of Central Lancashire,1.01,Non-Arts
+10,Central School of Speech and Drama,1.1,Non-Arts
+11,University of Chester,1.06,Non-Arts
+82,The University of Chichester,1.05,Non-Arts
+115,The City University,1.22,Non-Arts
 199,Conservatoire for Dance and Drama,1.06,Arts
 201,Courtauld Institute of Art,1.04,Arts
-56,Coventry University,1.02,
-2,Cranfield University,1.16,
+56,Coventry University,1.02,Non-Arts
+2,Cranfield University,1.16,Non-Arts
 206,University for the Creative Arts,0.98,Arts
-38,University of Cumbria,0.99,
-68,De Montfort University,1.07,
-57,University of Derby,1.06,
-116,University of Durham,1.13,
-117,The University of East Anglia,1.13,
-58,The University of East London,1.02,
-16,Edge Hill University,1.08,
-118,The University of Essex,1.13,
-119,The University of Exeter,1.17,
+38,University of Cumbria,0.99,Non-Arts
+68,De Montfort University,1.07,Non-Arts
+57,University of Derby,1.06,Non-Arts
+116,University of Durham,1.13,Non-Arts
+117,The University of East Anglia,1.13,Non-Arts
+58,The University of East London,1.02,Non-Arts
+16,Edge Hill University,1.08,Non-Arts
+118,The University of Essex,1.13,Non-Arts
+119,The University of Exeter,1.17,Non-Arts
 17,Falmouth University,1,Arts
-54,University of Gloucestershire,1,
-131,Goldsmiths College #,1.03,
-59,The University of Greenwich,1.05,
+54,University of Gloucestershire,1,Non-Arts
+131,Goldsmiths College #,1.03,Non-Arts
+59,The University of Greenwich,1.05,Non-Arts
 208,Guildhall School of Music and Drama,1.24,Arts
-18,Harper Adams University,1.14,
-60,University of Hertfordshire,1.05,
-205,Heythrop College,0.58,
-61,The University of Huddersfield,1.07,
-120,The University of Hull,1.09,
-132,"Imperial College of Science, Technology and Medicine",1.19,
-133,Institute of Education,1.17,
-121,The University of Keele,1.14,
-122,The University of Kent,1.12,
-134,King's College London,1.22,
-63,Kingston University,0.99,
-123,The University of Lancaster,1.08,
+18,Harper Adams University,1.14,Non-Arts
+60,University of Hertfordshire,1.05,Non-Arts
+205,Heythrop College,0.58,Non-Arts
+61,The University of Huddersfield,1.07,Non-Arts
+120,The University of Hull,1.09,Non-Arts
+132,"Imperial College of Science, Technology and Medicine",1.19,Non-Arts
+133,Institute of Education,1.17,Non-Arts
+121,The University of Keele,1.14,Non-Arts
+122,The University of Kent,1.12,Non-Arts
+134,King's College London,1.22,Non-Arts
+63,Kingston University,0.99,Non-Arts
+123,The University of Lancaster,1.08,Non-Arts
 211,Leeds College of Art,0.89,Arts
-64,Leeds Beckett University,1,
-124,The University of Leeds,1.16,
-40,Leeds Trinity University,0.99,
-125,The University of Leicester,1.2,
-62,The University of Lincoln,1.07,
-23,Liverpool Hope University,1.16,
-65,Liverpool John Moores University,1.08,
-209,The Liverpool Institute for Performing Arts,1.21,
-126,The University of Liverpool,1.18,
-228,Liverpool School of Tropical Medicine,1.23,
+64,Leeds Beckett University,1,Non-Arts
+124,The University of Leeds,1.16,Non-Arts
+40,Leeds Trinity University,0.99,Non-Arts
+125,The University of Leicester,1.2,Non-Arts
+62,The University of Lincoln,1.07,Non-Arts
+23,Liverpool Hope University,1.16,Non-Arts
+65,Liverpool John Moores University,1.08,Non-Arts
+209,The Liverpool Institute for Performing Arts,1.21,Non-Arts
+126,The University of Liverpool,1.18,Non-Arts
+228,Liverpool School of Tropical Medicine,1.23,Non-Arts
 24,"University of the Arts, London",1.12,Arts
-135,London Business School,1.25,
-151,University of London (Institutes and activities),1.19,
-202,London Metropolitan University,1.04,
-76,London South Bank University,1.08,
-137,London School of Economics and Political Science,1.2,
-138,London School of Hygiene and Tropical Medicine,1.2,
-152,Loughborough University,1.09,
-66,The Manchester Metropolitan University,1.02,
-204,The University of Manchester,1.16,
-67,Middlesex University,1.08,
-154,University of Newcastle-upon-Tyne,1.19,
-28,Newman University,1.1,
-27,The University of Northampton,1.08,
-69,University of Northumbria at Newcastle,1.02,
+135,London Business School,1.25,Non-Arts
+151,University of London (Institutes and activities),1.19,Non-Arts
+202,London Metropolitan University,1.04,Non-Arts
+76,London South Bank University,1.08,Non-Arts
+137,London School of Economics and Political Science,1.2,Non-Arts
+138,London School of Hygiene and Tropical Medicine,1.2,Non-Arts
+152,Loughborough University,1.09,Non-Arts
+66,The Manchester Metropolitan University,1.02,Non-Arts
+204,The University of Manchester,1.16,Non-Arts
+67,Middlesex University,1.08,Non-Arts
+154,University of Newcastle-upon-Tyne,1.19,Non-Arts
+28,Newman University,1.1,Non-Arts
+27,The University of Northampton,1.08,Non-Arts
+69,University of Northumbria at Newcastle,1.02,Non-Arts
 190,Norwich University of the Arts,1.16,Arts
-155,University of Nottingham,1.19,
-71,The Nottingham Trent University,1.04,
-1,The Open University,1.05,
-72,Oxford Brookes University,1.05,
-156,The University of Oxford,1.16,
-73,University of Plymouth,1.09,
-74,The University of Portsmouth,1.06,
-139,Queen Mary University of London,1.17,
+155,University of Nottingham,1.19,Non-Arts
+71,The Nottingham Trent University,1.04,Non-Arts
+1,The Open University,1.05,Non-Arts
+72,Oxford Brookes University,1.05,Non-Arts
+156,The University of Oxford,1.16,Non-Arts
+73,University of Plymouth,1.09,Non-Arts
+74,The University of Portsmouth,1.06,Non-Arts
+139,Queen Mary University of London,1.17,Non-Arts
 30,Ravensbourne,0.99,Arts
-157,The University of Reading,1.13,
-31,Roehampton University,1.03,
-32,Rose Bruford College,0.96,
-33,Royal Academy of Music,,
-195,Royal Agricultural University,1.37,
+157,The University of Reading,1.13,Non-Arts
+31,Roehampton University,1.03,Non-Arts
+32,Rose Bruford College,0.96,Non-Arts
+33,Royal Academy of Music,,Non-Arts
+195,Royal Agricultural University,1.37,Non-Arts
 3,Royal College of Art,1.2,Arts
-34,Royal College of Music,1.17,
-141,Royal Holloway and Bedford New College,1.12,
-35,Royal Northern College of Music,0.92,
-143,The Royal Veterinary College,1.24,
-145,St George's Hospital Medical School,1.21,
-39,"St Mary's University, Twickenham",1.11,
-158,The University of Salford,1.03,
-146,The School of Oriental and African Studies,1.06,
-75,Sheffield Hallam University,1.05,
-159,The University of Sheffield,1.1,
-37,Southampton Solent University,1.03,
-160,The University of Southampton,1.13,
-77,Staffordshire University,1,
-14,University of St Mark and St John,0.96,
-210,University Campus Suffolk,1.05,
-78,The University of Sunderland,1.04,
-161,The University of Surrey,1.12,
-162,The University of Sussex,1.11,
-79,Teesside University,1.03,
+34,Royal College of Music,1.17,Non-Arts
+141,Royal Holloway and Bedford New College,1.12,Non-Arts
+35,Royal Northern College of Music,0.92,Non-Arts
+143,The Royal Veterinary College,1.24,Non-Arts
+145,St George's Hospital Medical School,1.21,Non-Arts
+39,"St Mary's University, Twickenham",1.11,Non-Arts
+158,The University of Salford,1.03,Non-Arts
+146,The School of Oriental and African Studies,1.06,Non-Arts
+75,Sheffield Hallam University,1.05,Non-Arts
+159,The University of Sheffield,1.1,Non-Arts
+37,Southampton Solent University,1.03,Non-Arts
+160,The University of Southampton,1.13,Non-Arts
+77,Staffordshire University,1,Non-Arts
+14,University of St Mark and St John,0.96,Non-Arts
+210,University Campus Suffolk,1.05,Non-Arts
+78,The University of Sunderland,1.04,Non-Arts
+161,The University of Surrey,1.12,Non-Arts
+162,The University of Sussex,1.11,Non-Arts
+79,Teesside University,1.03,Non-Arts
 41,Trinity Laban Conservatoire of Music and Dance,1.19,Arts
-149,University College London,1.18,
-163,The University of Warwick,1.18,
-81,"University of the West of England, Bristol",1.03,
-80,The University of West London,1.02,
-83,The University of Westminster,1.02,
-21,The University of Winchester,1.01,
-85,The University of Wolverhampton,1.02,
-46,University of Worcester,1.05,
-189,Writtle College,1.14,
-13,York St John University,1.02,
-164,The University of York,1.17,
-177,Aberystwyth University,1.15,
-178,Bangor University,1.16,
-179,Cardiff University,1.22,
-89,Cardiff Metropolitan University,1.01,
-87,Glynd?r University,1.03,
-180,Swansea University,1.18,
-176,University of Wales Trinity Saint David,1.06,
-90,University of South Wales,1.04,
-186,The University of Wales (central functions),1.38,
-170,The University of Aberdeen,1.21,
-95,University of Abertay Dundee,1.09,
-172,The University of Dundee,1.17,
-107,Edinburgh Napier University,1.03,
-167,The University of Edinburgh,1.14,
-106,Glasgow Caledonian University,1.03,
+149,University College London,1.18,Non-Arts
+163,The University of Warwick,1.18,Non-Arts
+81,"University of the West of England, Bristol",1.03,Non-Arts
+80,The University of West London,1.02,Non-Arts
+83,The University of Westminster,1.02,Non-Arts
+21,The University of Winchester,1.01,Non-Arts
+85,The University of Wolverhampton,1.02,Non-Arts
+46,University of Worcester,1.05,Non-Arts
+189,Writtle College,1.14,Non-Arts
+13,York St John University,1.02,Non-Arts
+164,The University of York,1.17,Non-Arts
+177,Aberystwyth University,1.15,Non-Arts
+178,Bangor University,1.16,Non-Arts
+179,Cardiff University,1.22,Non-Arts
+89,Cardiff Metropolitan University,1.01,Non-Arts
+87,Glynd?r University,1.03,Non-Arts
+180,Swansea University,1.18,Non-Arts
+176,University of Wales Trinity Saint David,1.06,Non-Arts
+90,University of South Wales,1.04,Non-Arts
+186,The University of Wales (central functions),1.38,Non-Arts
+170,The University of Aberdeen,1.21,Non-Arts
+95,University of Abertay Dundee,1.09,Non-Arts
+172,The University of Dundee,1.17,Non-Arts
+107,Edinburgh Napier University,1.03,Non-Arts
+167,The University of Edinburgh,1.14,Non-Arts
+106,Glasgow Caledonian University,1.03,Non-Arts
 97,Glasgow School of Art,0.98,Arts
-168,The University of Glasgow,1.19,
-171,Heriot-Watt University,1.08,
-100,"Queen Margaret University, Edinburgh",1.09,
-104,The Robert Gordon University,1.07,
-101,Royal Conservatoire of Scotland,1,
-173,The University of St Andrews,1.18,
-175,SRUC,1.12,
-174,The University of Stirling,1.11,
-169,The University of Strathclyde,1.08,
-196,University of the Highlands and Islands,1.35,
-105,The University of the West of Scotland,1.06,
-184,The Queen's University of Belfast,1.19,
-194,St Mary's University College,1.03,
-193,Stranmillis University College,1.03,
-185,University of Ulster,1.05,
+168,The University of Glasgow,1.19,Non-Arts
+171,Heriot-Watt University,1.08,Non-Arts
+100,"Queen Margaret University, Edinburgh",1.09,Non-Arts
+104,The Robert Gordon University,1.07,Non-Arts
+101,Royal Conservatoire of Scotland,1,Non-Arts
+173,The University of St Andrews,1.18,Non-Arts
+175,SRUC,1.12,Non-Arts
+174,The University of Stirling,1.11,Non-Arts
+169,The University of Strathclyde,1.08,Non-Arts
+196,University of the Highlands and Islands,1.35,Non-Arts
+105,The University of the West of Scotland,1.06,Non-Arts
+184,The Queen's University of Belfast,1.19,Non-Arts
+194,St Mary's University College,1.03,Non-Arts
+193,Stranmillis University College,1.03,Non-Arts
+185,University of Ulster,1.05,Non-Arts
